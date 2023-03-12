@@ -1,4 +1,4 @@
 const button = document.querySelector('button');
 button.addEventListener('click', function() {
-	alert('Делай что должен и свершится, чему суждено.')
+	alert('Делай что должен и свершится, чему суждено🤖.')
 })
